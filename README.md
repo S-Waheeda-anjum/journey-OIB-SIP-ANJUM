@@ -1,2 +1,2 @@
 # journey-OIB-SIP-ANJUM
-internship in oasis infobyte 
+ Data Science internship in oasis infobyte 
